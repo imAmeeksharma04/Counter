@@ -1,0 +1,10 @@
+body {
+    background-color: #333333;
+}
+
+.font {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
